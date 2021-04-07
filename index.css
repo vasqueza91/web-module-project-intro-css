@@ -103,3 +103,14 @@ nav a{
     position:absolute;
     bottom:20%;
 }
+
+/*Paragraph Section Styles*/
+.paragraph{
+    text-align:center;
+    margin:0 auto;
+    background-color:tan;
+    color:white;
+    line-height:2;
+    margin:0 2.5%;
+    letter-spacing:60%;
+}
